@@ -1,0 +1,15 @@
+.form {
+    width: 1280px;
+    height: 760px;
+    border-color: black;
+    border-radius: 10px;
+    background-color: lightgreen;
+    display: -webkit-box;
+    border:solid 3px;
+}
+.car {
+    width: 250px;
+    height: 200px;
+    display: -webkit-inline-box;
+    background-color: aqua;
+}
